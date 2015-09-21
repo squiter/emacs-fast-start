@@ -37,7 +37,7 @@
   "Path to user home directory.")
 
 (defconst *emacsd-directory*
-  (path-join *dotfiles-directory* "emacs.d")
+  (path-join *user-home-directory* ".emacs.d")
   "Path to emacs.d directory.")
 
 (defconst *projects-directory*
