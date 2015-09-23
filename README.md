@@ -41,7 +41,7 @@ I'm a OSX user and I recommend you to use one of these builds for Emacs:
 
 * [Emacs for OSX ](http://emacsformacosx.com/);
 * [Emacs Mac Port](https://github.com/railwaycat/homebrew-emacsmacport/releases);
-* To know all diferences for the builds I recommend you to read this [Stack Overflow answer](What is the difference between Aquamacs and other Mac versions of Emacs?).
+* To know all diferences for the builds I recommend you to read this [Stack Overflow answer](http://emacs.stackexchange.com/questions/271/what-is-the-difference-between-aquamacs-and-other-mac-versions-of-emacs)
 
 ### Learning more
 
