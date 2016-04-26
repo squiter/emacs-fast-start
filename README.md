@@ -43,6 +43,23 @@ I'm a OSX user and I recommend you to use one of these builds for Emacs:
 * [Emacs Mac Port](https://github.com/railwaycat/homebrew-emacsmacport/releases);
 * To know all diferences for the builds I recommend you to read this [Stack Overflow answer](http://emacs.stackexchange.com/questions/271/what-is-the-difference-between-aquamacs-and-other-mac-versions-of-emacs)
 
+For Ubuntu you can:
+
+```
+cd /tmp/
+wget http://alpha.gnu.org/gnu/emacs/pretest/emacs-25.0.93.tar.xz
+tar -xvf $(EMACS).tar.xz
+
+sudo apt-get build-dep emacs24 -y
+
+cd emacs-25.0.93
+./configure
+./make
+sudo make install
+
+rm -rf /tmp/emacs-25.0.93*
+```
+
 ### Learning more
 
 First of all, you must understand how to speak Emacs's Language:
