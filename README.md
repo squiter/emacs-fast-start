@@ -52,7 +52,7 @@ For Ubuntu you can:
 ```
 cd /tmp/
 wget http://alpha.gnu.org/gnu/emacs/pretest/emacs-25.0.93.tar.xz
-tar -xvf $(EMACS).tar.xz
+tar -xvf emacs-25.0.93.tar.xz
 
 sudo apt-get build-dep emacs24 -y
 
