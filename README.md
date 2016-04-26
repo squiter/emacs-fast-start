@@ -1,7 +1,7 @@
 Emacs Fast Start
 ----------------
 
-This repo is proposed to help users to start using `emacs` editor. In this code I choose the essential packages and configurations to have a happy start with this amazing editor.
+This repo is proposed to help users to start using Emacs editor. In this code I choose the essential packages and configurations to have a happy start with this amazing editor.
 
 ## Installation
 
