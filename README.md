@@ -50,15 +50,16 @@ I'm a OSX user and I recommend you to use one of these builds for Emacs:
 For Ubuntu you can:
 
 ```
+sudo apt-get build-dep emacs24 -y
+
 cd /tmp/
+
 wget http://alpha.gnu.org/gnu/emacs/pretest/emacs-25.0.93.tar.xz
 tar -xvf emacs-25.0.93.tar.xz
 
-sudo apt-get build-dep emacs24 -y
-
 cd emacs-25.0.93
 ./configure
-./make
+make
 sudo make install
 
 rm -rf /tmp/emacs-25.0.93*
