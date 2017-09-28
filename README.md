@@ -1,4 +1,4 @@
-Emacs Fast Start
+Brumacs Fast Start
 ----------------
 
 This repo is proposed to help users to start using Emacs editor. In this code I choose the essential packages and configurations to have a happy start with this amazing editor.
@@ -18,13 +18,13 @@ Since you don't have any files in your home directory, let's begin!
 #### Clone the repo:
 
 ```
-git@github.com:squiter/emacs-fast-start.git
+git@github.com:squiter/brumacs-fast-start.git
 ```
 
 Then enter in repo directory:
 
 ```
-cd emacs-fast-start
+cd brumacs-fast-start
 ```
 
 Then make it:
@@ -33,11 +33,11 @@ Then make it:
 make
 ```
 
-This will copy `.emacs` and `.emacs.d` to your home directory.
+This will copy `.brumacs` and `.emacs.d` to your home directory.
 
 Ok, that's it! :)
 
-## Starting with Emacs
+## Starting with Brumacs
 
 ### Downloading
 
